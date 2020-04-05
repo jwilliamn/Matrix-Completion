@@ -1,2 +1,3 @@
 # Matrix-Completion
-Implementation of several algorithms of Matrix completion as part of the Machine Learning project at Skoletch 2020
+
+Sometimes also called the Netflix Problem, The main task inthis problem is to fill or complete the missing entries of an incomplete matrix $M$.
