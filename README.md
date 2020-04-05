@@ -5,7 +5,7 @@ Sometimes also called the Netflix Problem, The main task in this problem is to f
 In this project we explore and analyze several algorithms to solve the matrix completion problem such as Convex Relaxation, SVD and RPCA, and its corresponding implementation.
 
 For a detailed explanation and formulation of such algoriths refer to the [project report](https://github.com/jwilliamn/Matrix-Completion/blob/master/Final_Project_Report.pdf).
-We also made a presentation easy to understand, here [slides](https://github.com/jwilliamn/Matrix-Completion/blob/master/Final_Project_Report.pdf).
+We also made a presentation easy to understand, here [project slides](https://github.com/jwilliamn/Matrix-Completion/blob/master/Final_Project_Presentation.pdf).
 
 Here we show some results of the matrix completion applied to an image:
 
@@ -57,7 +57,7 @@ To change the data distortion modify the following parameter:
 ```python
 noise = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6]
 ```
-Notes: Slow
+Note: Slow
 
 ### 2. SVT
 Run the notebook: [`SVT_image.ipynb`](https://github.com/jwilliamn/Matrix-Completion/blob/master/SVT_image.ipynb) for Image Inpainting, and [`SVT_movie_recommender.ipynb`](https://github.com/jwilliamn/Matrix-Completion/blob/master/SVT_movie_recommender.ipynb) for Movie Recommender System
