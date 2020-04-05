@@ -20,10 +20,7 @@ Original Image             |  Complete Image
 ![](gs.jpg)  |  ![](results/nucnorm_0.6.jpg)
 
 And here applied to Movie Recommender System:
-
-User Recommendation             |
-:-------------------------:|:--|
-![](movieRecSys.png) |
+![](movieRecSys.png) 
 
 ## Reproducibility
 To reproduce the results of the experiments, follow the guidelines below:
