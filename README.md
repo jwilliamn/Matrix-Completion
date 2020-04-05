@@ -19,10 +19,29 @@ Original Image             |  Complete Image
 ![](original_gray.jpg)  |  ![](results/nucnorm_0.6.jpg)
 
 
+## Reproducibility
+To reproduce the results of the experiments, follow the guidelines here:
+
 ### Prerequisites
--
--
+A machine that supports the following packages
+
+- Pillow
+- numpy
+- cvxpy
+- scikit-image 
+- opencv-python
 
 ### Getting Started
 
-Installation
+Installation:
+
+- Clone this repository:
+```bash
+git clone https://github.com/jwilliamn/Matrix-Completion
+cd Matrix-Completion
+```
+
+- Install requirements:
+```bash
+pip install -r requirements.txt
+```
