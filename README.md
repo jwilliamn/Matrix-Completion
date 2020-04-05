@@ -21,7 +21,7 @@ Original Image             |  Complete Image
 
 And here applied to Movie Recommender System:
 
-![](movieRecSys.png =250x250)
+![](movieRecSys.png)
 
 ## Reproducibility
 To reproduce the results of the experiments, follow the guidelines below:
@@ -70,7 +70,7 @@ p = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6]
 Run the notebook: [`RPCA.ipynb`](https://github.com/jwilliamn/Matrix-Completion/blob/master/RPCA.ipynb)
 
 ## Data set
-- For recommeder system we used [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
+- For recommender system we used [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
     
     Small version: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users.
 
