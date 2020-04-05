@@ -21,7 +21,7 @@ Original Image             |  Complete Image
 
 And here applied to Movie Recommender System:
 
-![](movieRecSys.png)
+![](movieRecSys.png =250x250)
 
 ## Reproducibility
 To reproduce the results of the experiments, follow the guidelines below:
@@ -67,7 +67,7 @@ Change the following parameter for a different noise levels:
 p = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6]
 ```
 ### 3. RPCA
-Run the notebook: [`RPCA.ipynb`](https://github.com/jwilliamn/Matrix-Completion/blob/master/RPCA.ipynb) for Movie Recommender System
+Run the notebook: [`RPCA.ipynb`](https://github.com/jwilliamn/Matrix-Completion/blob/master/RPCA.ipynb)
 
 ## Data set
 - For recommeder system we used [MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
