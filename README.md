@@ -21,7 +21,9 @@ Original Image             |  Complete Image
 
 And here applied to Movie Recommender System:
 
-![](movieRecSys.png)
+User Recommendation             |
+:-------------------------:|:--|
+![](movieRecSys.png) |
 
 ## Reproducibility
 To reproduce the results of the experiments, follow the guidelines below:
